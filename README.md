@@ -7,7 +7,7 @@ If you don't want to install Python or the modules, you can download the .exe fi
 
 # Usage of the QR-code-generator interface
 
-When you launch the .exe file you will see 4 white fields.
+When you launch the .exe file, or run the code you will see 4 white fields.
 In The first one You have to enter The text you want to pack into the QR-code.
 In the second field you have to enter the site the generated QR-code should have.
 Example: 10 for a small QR-code or for example 50 if you want a large QR-code.
