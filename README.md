@@ -16,7 +16,7 @@ And in the Last field, you have to enter the Name the QR-code will be saved with
 If you have done this, click on the Button "generate QR code". This will generate you the QR-code.
 The generated QR-code you can find in the same Folder as the .exe or the python file.
 
-## Example immages
+## Example images
 - QR-code-generator
 
 ![QR-code-generator](https://user-images.githubusercontent.com/88271311/130331085-e8662add-d99f-4dd7-8035-e4860161dd23.png)
