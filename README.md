@@ -19,3 +19,4 @@ Run the Python script to start the application. Enter the desired text or URL, a
 * `tkinter` - Provides the graphical user interface (GUI) for the application (comes pre-installed with Python)
 
 ## Image of the QR Code Generator
+<img width="408" height="407" alt="QR-code-generator" src="https://github.com/user-attachments/assets/03771c9c-50cd-4eba-acac-755878fb67d5" />
