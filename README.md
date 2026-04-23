@@ -13,7 +13,6 @@ A lightweight desktop application built with Python and the Tkinter library that
 Run the Python script to start the application. Enter the desired text or URL, adjust the size and border settings, and specify a filename. Click the "Generate QR Code" button to create and save your QR code.
 
 ## Required Python Packages
-
 * `Pillow` - Used for image processing and saving the generated QR codes as PNG files
 * `qrcode` - Core library for generating QR codes
 * `tkinter` - Provides the graphical user interface (GUI) for the application (comes pre-installed with Python)
